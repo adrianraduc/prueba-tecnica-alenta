@@ -1,0 +1,3 @@
+<?php //TypeError
+
+return [PHP_INT_MAX, []];

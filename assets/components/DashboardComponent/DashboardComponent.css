@@ -1,0 +1,17 @@
+.fullCard {
+  display: flex;
+  width: 98vw;
+  height: 95vh;
+  margin-left: .5vw;
+  flex-direction: column;
+}
+
+.fullCardHeader {
+  width: 98vw;
+  margin-left: 2vw;
+}
+
+.fullCardGrid {
+  width: 98vw;
+}
+

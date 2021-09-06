@@ -1,0 +1,9 @@
+.dateFilter {
+  display: flex;
+  align-items: flex-end;
+}
+
+.dateFilterButton {
+  margin-left: 1vw;
+  margin-bottom: 0.6vh;
+}

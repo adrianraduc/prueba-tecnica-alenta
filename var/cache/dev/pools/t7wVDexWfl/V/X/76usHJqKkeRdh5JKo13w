@@ -1,0 +1,3 @@
+<?php //ErrorException%2524severity
+
+return [PHP_INT_MAX, []];

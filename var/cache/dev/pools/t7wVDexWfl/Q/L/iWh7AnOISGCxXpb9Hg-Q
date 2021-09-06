@@ -1,0 +1,3 @@
+<?php //Symfony%255CComponent%255CMime%255CException%255CInvalidArgumentException
+
+return [PHP_INT_MAX, []];

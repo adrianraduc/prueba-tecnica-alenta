@@ -1,0 +1,15 @@
+{
+  "build/app.css": "/build/app.css",
+  "build/app.js": "/build/app.js",
+  "build/runtime.js": "/build/runtime.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-aa28e5.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-aa28e5.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-565639.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-565639.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-d55a65.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-d55a65.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-61df42.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-61df42.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-894016.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-894016.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-3ed652.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-3ed652.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ca-352027.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ca-352027.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-9cd0dd.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-9cd0dd.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-e727f1.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-e727f1.js",
+  "build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-e75a1f.js": "/build/vendors-node_modules_date-io_date-fns_build_index_esm_js-node_modules_material-ui_core_esm_Ap-e75a1f.js"
+}

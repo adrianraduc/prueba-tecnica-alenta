@@ -1,0 +1,8 @@
+.categoryFilter {
+    display: flex;
+    width: 98vw;
+  }
+  
+  .categoryRadioButtons{
+    width: 25vw;
+  }
